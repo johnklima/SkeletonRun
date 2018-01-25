@@ -5,10 +5,9 @@
 
 
 #Unity
-[Zz]ombieHead/Library
-#[Zz]ombieHead/ProjectSettings
-[Zz]ombieHead/Temp
-[Zz]ombieHead/UnityPackageManager
+[Ss]keletonRun/Library
+[Ss]keletonRun/Temp
+[Ss]keletonRun/UnityPackageManager
 *.csproj
 *.sln
 
