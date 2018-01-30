@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 80fd72628538c3c4eac1a9d3a9812902
+timeCreated: 1517335904
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Head
+    100002: Left_Arm
+    100004: Left_Arm_Lower
+    100006: Left_Foot
+    100008: Left_Hand
+    100010: Left_Leg
+    100012: Left_Leg_Lower
+    100014: Pelvis
+    100016: Right_Arm
+    100018: Right_Arm_Lower
+    100020: Right_Foot
+    100022: Right_Hand
+    100024: Right_Leg
+    100026: Right_Leg_Lower
+    100028: //RootNode
+    100030: Skeleton6
+    400000: Head
+    400002: Left_Arm
+    400004: Left_Arm_Lower
+    400006: Left_Foot
+    400008: Left_Hand
+    400010: Left_Leg
+    400012: Left_Leg_Lower
+    400014: Pelvis
+    400016: Right_Arm
+    400018: Right_Arm_Lower
+    400020: Right_Foot
+    400022: Right_Hand
+    400024: Right_Leg
+    400026: Right_Leg_Lower
+    400028: //RootNode
+    400030: Skeleton6
+    2300000: Head
+    2300002: Left_Arm
+    2300004: Left_Arm_Lower
+    2300006: Left_Foot
+    2300008: Left_Hand
+    2300010: Left_Leg
+    2300012: Left_Leg_Lower
+    2300014: Pelvis
+    2300016: Right_Arm
+    2300018: Right_Arm_Lower
+    2300020: Right_Foot
+    2300022: Right_Hand
+    2300024: Right_Leg
+    2300026: Right_Leg_Lower
+    2300028: Skeleton6
+    3300000: Head
+    3300002: Left_Arm
+    3300004: Left_Arm_Lower
+    3300006: Left_Foot
+    3300008: Left_Hand
+    3300010: Left_Leg
+    3300012: Left_Leg_Lower
+    3300014: Pelvis
+    3300016: Right_Arm
+    3300018: Right_Arm_Lower
+    3300020: Right_Foot
+    3300022: Right_Hand
+    3300024: Right_Leg
+    3300026: Right_Leg_Lower
+    3300028: Skeleton6
+    4300000: Head
+    4300002: Left_Arm
+    4300004: Left_Arm_Lower
+    4300006: Left_Foot
+    4300008: Left_Hand
+    4300010: Left_Leg
+    4300012: Left_Leg_Lower
+    4300014: Pelvis
+    4300016: Right_Arm
+    4300018: Right_Arm_Lower
+    4300020: Right_Foot
+    4300022: Right_Hand
+    4300024: Right_Leg
+    4300026: Right_Leg_Lower
+    4300028: Skeleton6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
