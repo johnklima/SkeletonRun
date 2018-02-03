@@ -11,6 +11,11 @@ public class IKStuff : MonoBehaviour
     public Limbs leg;
     public Limbs legl;
 
+    private void Update()
+    {
+        Reach();
+    }
+
     public void Reach()
     {
         legl.BringItBack(target.position);

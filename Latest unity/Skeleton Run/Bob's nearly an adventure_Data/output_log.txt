@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.100 seconds
+Platform assembly: C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ace\Documents\Skeleton Run\Bob's nearly an adventure_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 50Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.867129 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.252423 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 552.
+Total: 0.113948 ms (FindLiveObjects: 0.025804 ms CreateObjectMapping: 0.011497 ms MarkObjects: 0.072303 ms  DeleteObjects: 0.003832 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.441740 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 322.
+Total: 0.315528 ms (FindLiveObjects: 0.027592 ms CreateObjectMapping: 0.016351 ms MarkObjects: 0.063105 ms  DeleteObjects: 0.207201 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.238626 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 552.
+Total: 0.103984 ms (FindLiveObjects: 0.025293 ms CreateObjectMapping: 0.011241 ms MarkObjects: 0.062850 ms  DeleteObjects: 0.003576 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2f824 -> priority: 1 
+  Thread -> id: 2f2f0 -> priority: 1 
+  Thread -> id: 2ca7c -> priority: 1 
+  Thread -> id: 2ec94 -> priority: 1 
